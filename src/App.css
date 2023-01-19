@@ -1,0 +1,38 @@
+body {
+  background-color: antiquewhite;
+  justify-content: center;
+}
+
+.container {
+  width: 320px;
+  margin: 100px auto;
+}
+
+#display {
+  background-color: #22252d;
+  color: white;
+  font-size: 35px;
+  border: 3px solid #22252d;
+  width: 295px;
+  text-align: right;
+  padding: 10px;
+}
+
+.button {
+  background-color: #2a2d37;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid #22252d;
+  float: left;
+  cursor: pointer;
+}
+
+.button1 {
+  width: 160px;
+  height: 80px;
+  background-color: #2a2d37;
+  border: 1px solid #22252d;
+  color: white;
+}
